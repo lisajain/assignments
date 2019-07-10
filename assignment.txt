@@ -27,3 +27,18 @@ js practical session 1:
 js practical session 2:
 1)https://codepen.io/anon/pen/Gbxabo
 2)https://codepen.io/anon/pen/gNvEVK
+
+https://jsfiddle.net/6gv4wfam/- js intro full name
+
+https://codepen.io/anon/pen/YoebKg- christmas
+
+https://codepen.io/anon/pen/Gbxabo- border color by clicking
+
+https://codepen.io/anon/pen/gNvEVK- img box
+
+https://jsfiddle.net/yqbe046r/1/- promise  1st
+https://jsfiddle.net/4vfjL9o0/- promise multiple bind
+
+https://codepen.io/anon/pen/vqvLBV- promise 3
+
+
