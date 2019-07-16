@@ -41,4 +41,6 @@ https://jsfiddle.net/4vfjL9o0/- promise multiple bind
 
 https://codepen.io/anon/pen/vqvLBV- promise 3
 
+@ ) https://jsfiddle.net/vwqfeo98/1/ (delete rows )
+
 
